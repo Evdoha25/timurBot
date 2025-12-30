@@ -1,0 +1,436 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "She ______ to school every day.",
+      "options": ["go", "goes", "going", "went"],
+      "correct": 1,
+      "level": "A1",
+      "category": "grammar",
+      "weight": 1
+    },
+    {
+      "id": 2,
+      "text": "What is the opposite of 'hot'?",
+      "options": ["warm", "cold", "cool", "freezing"],
+      "correct": 1,
+      "level": "A1",
+      "category": "vocabulary",
+      "weight": 1
+    },
+    {
+      "id": 3,
+      "text": "I ______ a student.",
+      "options": ["is", "are", "am", "be"],
+      "correct": 2,
+      "level": "A1",
+      "category": "grammar",
+      "weight": 1
+    },
+    {
+      "id": 4,
+      "text": "Which word means 'a place where you sleep'?",
+      "options": ["kitchen", "bathroom", "bedroom", "garden"],
+      "correct": 2,
+      "level": "A1",
+      "category": "vocabulary",
+      "weight": 1
+    },
+    {
+      "id": 5,
+      "text": "They ______ from Spain.",
+      "options": ["is", "am", "are", "be"],
+      "correct": 2,
+      "level": "A1",
+      "category": "grammar",
+      "weight": 1
+    },
+    {
+      "id": 6,
+      "text": "What color is the sky on a clear day?",
+      "options": ["green", "blue", "red", "yellow"],
+      "correct": 1,
+      "level": "A1",
+      "category": "vocabulary",
+      "weight": 1
+    },
+    {
+      "id": 7,
+      "text": "______ you like coffee?",
+      "options": ["Does", "Do", "Is", "Are"],
+      "correct": 1,
+      "level": "A1",
+      "category": "grammar",
+      "weight": 1
+    },
+    {
+      "id": 8,
+      "text": "A 'brother' is a male ______.",
+      "options": ["friend", "parent", "sibling", "child"],
+      "correct": 2,
+      "level": "A1",
+      "category": "vocabulary",
+      "weight": 1
+    },
+    {
+      "id": 9,
+      "text": "Yesterday, I ______ to the cinema.",
+      "options": ["go", "goes", "went", "going"],
+      "correct": 2,
+      "level": "A2",
+      "category": "grammar",
+      "weight": 2
+    },
+    {
+      "id": 10,
+      "text": "What does 'purchase' mean?",
+      "options": ["to sell", "to buy", "to give", "to take"],
+      "correct": 1,
+      "level": "A2",
+      "category": "vocabulary",
+      "weight": 2
+    },
+    {
+      "id": 11,
+      "text": "She has ______ finished her homework.",
+      "options": ["yet", "still", "already", "since"],
+      "correct": 2,
+      "level": "A2",
+      "category": "grammar",
+      "weight": 2
+    },
+    {
+      "id": 12,
+      "text": "Choose the correct synonym for 'happy':",
+      "options": ["sad", "joyful", "angry", "tired"],
+      "correct": 1,
+      "level": "A2",
+      "category": "vocabulary",
+      "weight": 2
+    },
+    {
+      "id": 13,
+      "text": "I ______ TV when the phone rang.",
+      "options": ["watch", "watched", "was watching", "am watching"],
+      "correct": 2,
+      "level": "A2",
+      "category": "grammar",
+      "weight": 2
+    },
+    {
+      "id": 14,
+      "text": "What is the meaning of 'frequently'?",
+      "options": ["rarely", "never", "often", "sometimes"],
+      "correct": 2,
+      "level": "A2",
+      "category": "vocabulary",
+      "weight": 2
+    },
+    {
+      "id": 15,
+      "text": "We ______ to Paris next summer.",
+      "options": ["will travel", "traveled", "travel", "traveling"],
+      "correct": 0,
+      "level": "A2",
+      "category": "grammar",
+      "weight": 2
+    },
+    {
+      "id": 16,
+      "text": "A person who writes books is called an ______.",
+      "options": ["actor", "artist", "author", "architect"],
+      "correct": 2,
+      "level": "A2",
+      "category": "vocabulary",
+      "weight": 2
+    },
+    {
+      "id": 17,
+      "text": "If it rains, I ______ stay at home.",
+      "options": ["will", "would", "can", "should"],
+      "correct": 0,
+      "level": "B1",
+      "category": "grammar",
+      "weight": 3
+    },
+    {
+      "id": 18,
+      "text": "Choose the word that means 'to make something better':",
+      "options": ["worsen", "improve", "maintain", "destroy"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    },
+    {
+      "id": 19,
+      "text": "She asked me where I ______.",
+      "options": ["live", "lived", "living", "lives"],
+      "correct": 1,
+      "level": "B1",
+      "category": "grammar",
+      "weight": 3
+    },
+    {
+      "id": 20,
+      "text": "What does 'approximately' mean?",
+      "options": ["exactly", "about", "precisely", "definitely"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    },
+    {
+      "id": 21,
+      "text": "By the time we arrived, the movie ______.",
+      "options": ["started", "has started", "had started", "starts"],
+      "correct": 2,
+      "level": "B1",
+      "category": "grammar",
+      "weight": 3
+    },
+    {
+      "id": 22,
+      "text": "'Consequence' is closest in meaning to:",
+      "options": ["cause", "result", "reason", "purpose"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    },
+    {
+      "id": 23,
+      "text": "I wish I ______ speak French fluently.",
+      "options": ["can", "could", "will", "would"],
+      "correct": 1,
+      "level": "B1",
+      "category": "grammar",
+      "weight": 3
+    },
+    {
+      "id": 24,
+      "text": "What does 'postpone' mean?",
+      "options": ["cancel", "delay", "advance", "complete"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    },
+    {
+      "id": 25,
+      "text": "Had I known about the meeting, I ______ attended.",
+      "options": ["will have", "would have", "could", "might"],
+      "correct": 1,
+      "level": "B2",
+      "category": "grammar",
+      "weight": 4
+    },
+    {
+      "id": 26,
+      "text": "Choose the word meaning 'to make less severe':",
+      "options": ["aggravate", "intensify", "mitigate", "amplify"],
+      "correct": 2,
+      "level": "B2",
+      "category": "vocabulary",
+      "weight": 4
+    },
+    {
+      "id": 27,
+      "text": "Not only ______ the exam, but she also got the highest score.",
+      "options": ["she passed", "did she pass", "passed she", "she did pass"],
+      "correct": 1,
+      "level": "B2",
+      "category": "grammar",
+      "weight": 4
+    },
+    {
+      "id": 28,
+      "text": "What does 'ubiquitous' mean?",
+      "options": ["rare", "everywhere", "unique", "ancient"],
+      "correct": 1,
+      "level": "B2",
+      "category": "vocabulary",
+      "weight": 4
+    },
+    {
+      "id": 29,
+      "text": "The report ______ by the time you arrive.",
+      "options": ["will complete", "will be completed", "will have been completed", "is completed"],
+      "correct": 2,
+      "level": "B2",
+      "category": "grammar",
+      "weight": 4
+    },
+    {
+      "id": 30,
+      "text": "'Pragmatic' is closest in meaning to:",
+      "options": ["theoretical", "practical", "idealistic", "optimistic"],
+      "correct": 1,
+      "level": "B2",
+      "category": "vocabulary",
+      "weight": 4
+    },
+    {
+      "id": 31,
+      "text": "It's high time we ______ a decision.",
+      "options": ["make", "made", "have made", "will make"],
+      "correct": 1,
+      "level": "B2",
+      "category": "grammar",
+      "weight": 4
+    },
+    {
+      "id": 32,
+      "text": "What does 'diligent' mean?",
+      "options": ["lazy", "hardworking", "careless", "indifferent"],
+      "correct": 1,
+      "level": "B2",
+      "category": "vocabulary",
+      "weight": 4
+    },
+    {
+      "id": 33,
+      "text": "The book ______ I read last week was fascinating.",
+      "options": ["who", "which", "what", "whom"],
+      "correct": 1,
+      "level": "A2",
+      "category": "grammar",
+      "weight": 2
+    },
+    {
+      "id": 34,
+      "text": "Choose the antonym of 'generous':",
+      "options": ["kind", "stingy", "wealthy", "poor"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    },
+    {
+      "id": 35,
+      "text": "He denied ______ the window.",
+      "options": ["to break", "breaking", "break", "broke"],
+      "correct": 1,
+      "level": "B1",
+      "category": "grammar",
+      "weight": 3
+    },
+    {
+      "id": 36,
+      "text": "What is a 'pedestrian'?",
+      "options": ["a driver", "a cyclist", "a person walking", "a passenger"],
+      "correct": 2,
+      "level": "A2",
+      "category": "vocabulary",
+      "weight": 2
+    },
+    {
+      "id": 37,
+      "text": "______ you mind opening the window?",
+      "options": ["Do", "Would", "Will", "Could"],
+      "correct": 1,
+      "level": "B1",
+      "category": "grammar",
+      "weight": 3
+    },
+    {
+      "id": 38,
+      "text": "The word 'annual' means:",
+      "options": ["monthly", "weekly", "yearly", "daily"],
+      "correct": 2,
+      "level": "A2",
+      "category": "vocabulary",
+      "weight": 2
+    },
+    {
+      "id": 39,
+      "text": "Despite ______ hard, he failed the test.",
+      "options": ["study", "studying", "studied", "to study"],
+      "correct": 1,
+      "level": "B2",
+      "category": "grammar",
+      "weight": 4
+    },
+    {
+      "id": 40,
+      "text": "'Ambiguous' is closest in meaning to:",
+      "options": ["clear", "uncertain", "definite", "obvious"],
+      "correct": 1,
+      "level": "B2",
+      "category": "vocabulary",
+      "weight": 4
+    },
+    {
+      "id": 41,
+      "text": "How ______ milk do you want?",
+      "options": ["many", "much", "few", "little"],
+      "correct": 1,
+      "level": "A1",
+      "category": "grammar",
+      "weight": 1
+    },
+    {
+      "id": 42,
+      "text": "The day after Monday is:",
+      "options": ["Wednesday", "Sunday", "Tuesday", "Friday"],
+      "correct": 2,
+      "level": "A1",
+      "category": "vocabulary",
+      "weight": 1
+    },
+    {
+      "id": 43,
+      "text": "There ______ many people at the party.",
+      "options": ["is", "was", "were", "being"],
+      "correct": 2,
+      "level": "A1",
+      "category": "grammar",
+      "weight": 1
+    },
+    {
+      "id": 44,
+      "text": "What is 100 minus 65?",
+      "options": ["25", "35", "45", "55"],
+      "correct": 1,
+      "level": "A1",
+      "category": "vocabulary",
+      "weight": 1
+    },
+    {
+      "id": 45,
+      "text": "The train ______ at 9 o'clock tomorrow.",
+      "options": ["leave", "leaves", "leaving", "left"],
+      "correct": 1,
+      "level": "A2",
+      "category": "grammar",
+      "weight": 2
+    },
+    {
+      "id": 46,
+      "text": "'Reliable' means someone who is:",
+      "options": ["untrustworthy", "dependable", "uncertain", "doubtful"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    },
+    {
+      "id": 47,
+      "text": "Scarcely had he arrived ______ it started raining.",
+      "options": ["than", "when", "then", "that"],
+      "correct": 1,
+      "level": "B2",
+      "category": "grammar",
+      "weight": 4
+    },
+    {
+      "id": 48,
+      "text": "What does 'reluctant' mean?",
+      "options": ["eager", "unwilling", "excited", "happy"],
+      "correct": 1,
+      "level": "B1",
+      "category": "vocabulary",
+      "weight": 3
+    }
+  ]
+}

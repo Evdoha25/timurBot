@@ -1,0 +1,45 @@
+{
+  "bot": {
+    "welcomeMessage": "🎓 Welcome to QuickEnglishLevelBot!\n\nThis bot will assess your English proficiency level (A1 to B2) through a quick vocabulary and grammar test.\n\n📋 Test Information:\n• 20 multiple-choice questions\n• Mix of vocabulary and grammar\n• Takes approximately 5-10 minutes\n• Instant results upon completion\n\n🔒 Your data is stored temporarily and will be cleared after the test.\n\nReady to begin? Click the button below!",
+    "instructionsMessage": "📝 Instructions:\n\n1. Each question has 4 options (A, B, C, D)\n2. Select the option you think is correct\n3. You cannot change your answer once submitted\n4. Answer all questions to get your results\n\nCommands:\n• /restart - Start the test over\n• /cancel - Cancel the test\n\nGood luck! 🍀",
+    "completionMessage": "🎉 Congratulations! You've completed the test!\n\nCalculating your results...",
+    "cancelMessage": "❌ Test cancelled. Your session has been cleared.\n\nUse /start to begin a new test.",
+    "restartMessage": "🔄 Test restarted. Let's begin again!",
+    "sessionExpiredMessage": "⏰ Your session has expired due to inactivity.\n\nUse /start to begin a new test.",
+    "invalidInputMessage": "⚠️ Please select one of the options provided."
+  },
+  "test": {
+    "totalQuestions": 20,
+    "questionsPerLevel": {
+      "A1": 5,
+      "A2": 5,
+      "B1": 5,
+      "B2": 5
+    },
+    "questionsPerCategory": {
+      "vocabulary": 10,
+      "grammar": 10
+    },
+    "sessionTimeoutMinutes": 30
+  },
+  "scoring": {
+    "weights": {
+      "A1": 1,
+      "A2": 2,
+      "B1": 3,
+      "B2": 4
+    },
+    "levelThresholds": {
+      "A1": { "min": 0, "max": 25 },
+      "A2": { "min": 26, "max": 50 },
+      "B1": { "min": 51, "max": 75 },
+      "B2": { "min": 76, "max": 100 }
+    }
+  },
+  "recommendations": {
+    "A1": "You're at a beginner level. Focus on:\n• Basic vocabulary (common words, numbers, colors)\n• Simple present tense\n• Basic sentence structures\n• Everyday phrases",
+    "A2": "You're at an elementary level. To improve:\n• Expand vocabulary for daily situations\n• Practice past and future tenses\n• Work on question formation\n• Learn common phrasal verbs",
+    "B1": "You're at an intermediate level. Keep improving:\n• Build vocabulary for work and travel\n• Master all verb tenses\n• Practice conditional sentences\n• Develop reading and listening skills",
+    "B2": "You're at an upper-intermediate level. To advance:\n• Learn advanced vocabulary and idioms\n• Perfect complex grammar structures\n• Practice formal and informal registers\n• Focus on fluency and accuracy"
+  }
+}
